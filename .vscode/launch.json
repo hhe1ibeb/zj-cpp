@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/elainehou29/Development/cpp-practice/zj",
+      "program": "/Users/elainehou29/Development/cpp-practice/zj/build/Debug/outDebug"
+    }
+  ]
+}
