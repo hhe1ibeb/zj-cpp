@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/elainehou29/Development/cpp-practice/zj",
-      "program": "/Users/elainehou29/Development/cpp-practice/zj/build/Debug/outDebug"
+      "cwd": "/Users/elainehou29/Development/cpp-practice/zj-cpp",
+      "program": "/Users/elainehou29/Development/cpp-practice/zj-cpp/build/Debug/outDebug"
     }
   ]
 }
